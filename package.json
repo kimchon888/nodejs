@@ -1,11 +1,11 @@
 {
-  "name": "myapp",
+  "name": "nodejs",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "lap4.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node lap4.js"
   },
   "author": "",
   "license": "ISC",
